@@ -22,9 +22,9 @@ This is a simple OTP-based login system built using **Flask (Python)** for demo 
    pip install flask
 
 2. **Run the app**
-```
-python app.py
-```
+   ```
+   python app.py
+   ```
 
 3. **Open in browser:**
 Navigate to: http://localhost:5000
