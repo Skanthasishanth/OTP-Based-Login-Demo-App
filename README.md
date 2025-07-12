@@ -82,4 +82,3 @@ This app is intended for demo/educational use only. It does not actually send em
 ## 📧 Author
 
 **By S Kantha Sishanth**
-
